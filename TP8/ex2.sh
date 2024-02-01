@@ -15,3 +15,4 @@ done
 
 # Afficher la somme
 echo "La somme des $nb premiers entiers vaut $somme"
+ 
